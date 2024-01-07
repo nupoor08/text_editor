@@ -7,6 +7,7 @@ This is a simple text editor implemented in Python using the Tkinter library.
 - Open File : Allows the user to open an existing text file.
 - Save File : Enables the user to save the current text content to a new or existing file.
 - Keyboard Shortcuts : Supports keyboard shortcuts for common actions (`Ctrl+S` for save, `Ctrl+O` for open).
+- Themes : Allow users to customize the appearance of the text editor with different themes & font styles.
 
 ## Getting Started
 
